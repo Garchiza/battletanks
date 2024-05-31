@@ -1,0 +1,10 @@
+^E:\HUI\BATTLETANKS\BUILD\CMAKEFILES\18D5D56425BEF9D0CD36F25B779C6797\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/hui/battletanks -BE:/hui/battletanks/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/hui/battletanks/build/battletanks.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
