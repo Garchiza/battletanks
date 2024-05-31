@@ -1,6 +1,0 @@
-E:/hui/battletanks/build/CMakeFiles/battletanks.dir
-E:/hui/battletanks/build/CMakeFiles/ALL_BUILD.dir
-E:/hui/battletanks/build/CMakeFiles/ZERO_CHECK.dir
-E:/hui/battletanks/build/external/glfw/CMakeFiles/ALL_BUILD.dir
-E:/hui/battletanks/build/external/glfw/src/CMakeFiles/glfw.dir
-E:/hui/battletanks/build/external/glfw/src/CMakeFiles/update_mappings.dir
